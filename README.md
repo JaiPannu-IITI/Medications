@@ -7,7 +7,7 @@ Preview :
 
 
 
-
+![Screenshot 2024-02-09 at 9 56 25 PM](https://github.com/JaiPannu-IITI/Medications/assets/142983705/8ededed7-928e-4928-8b53-c71a5ad21219)
 
 ![IMG_0864](https://github.com/JaiPannu-IITI/Medications/assets/142983705/c74e87c9-42dc-4925-b255-52aebbb11a87)
 
@@ -20,6 +20,9 @@ Preview :
 ![IMG_0871](https://github.com/JaiPannu-IITI/Medications/assets/142983705/444b666a-2854-4121-9df8-51f3c6bcdadd)
 
 ![IMG_0872](https://github.com/JaiPannu-IITI/Medications/assets/142983705/73cd79e6-b580-410e-b7e5-5c732786184b)
+
+![IMG_0873-2](https://github.com/JaiPannu-IITI/Medications/assets/142983705/006877a1-bcf7-4677-ac92-cdd899349a04)
+
 
 ![IMG_0874](https://github.com/JaiPannu-IITI/Medications/assets/142983705/a47a160a-7b6e-4cbb-b731-ba6c386de205)
 
